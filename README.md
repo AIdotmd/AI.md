@@ -31,6 +31,9 @@ during contribution (So they are not for explaining how you used AI!)
 
 > Note that the symbol table is just to make it easier, if you wish to explain in plaintext, do that.
 
+You also dont need to limit yourself, if you wish to go very indepth, go right ahead!
+Though, AI.md files **are required to have the two base explanation!**
+
 ## Extra rule (important!)
 
 You must provide plaintext explanation of the symbols's meaning(s) and optional
