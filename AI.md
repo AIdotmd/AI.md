@@ -1,5 +1,5 @@
 ### How AI was used in the development of AI.md
-None! I came up with this convetion on my own, a few months / maybe a year back.
+None! I came up with this convention on my own, a few months / maybe a year back.
 
 ### Usage of AI when contributing
 
